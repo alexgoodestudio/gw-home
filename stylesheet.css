@@ -1,0 +1,85 @@
+.special{
+    font-style: italic;
+    font-size: 44pt;
+    font-family:'Times New Roman', Times, serif;
+    color: #f37b7a;
+}
+
+h1{
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 42pt;
+}
+
+.textblack{
+    color:black;
+}
+
+.bgsection{
+ background-color: #d3e3f2;
+ box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+.bgblack{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.bgsection2{
+    background-color:#003633;
+    
+
+}
+
+.formBox{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.logo{
+    width: 160px;
+    margin-left: 60%;
+   
+}
+.navBarLinks{
+    color: #003633;
+    margin-left: 70%;
+}
+
+input{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.requestHeader{
+    font-size: 35px;
+    padding-bottom: 17px;
+    
+}
+
+.btnSubmit{
+    border: solid;
+    border-color: white;
+    color: white;
+}
+
+.borderBox{
+    border: solid;
+    border-color:#d3e3f2;
+    border-radius: 20px;
+    
+}
+.centerContainer{
+margin-top: 14%;
+
+}
+.inside{
+    padding: 45px;
+}
+.backgroundImage{
+background-image: url(./pictures/backgroungimage.png) ;
+background-size: 1600px;
+height: 900px;
+
+}

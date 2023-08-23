@@ -16,7 +16,7 @@ index.html: The main landing page.
 request.html: A contact form for potential clients to reach out.
 stylesheet.css: The main stylesheet, ensuring the website is visually appealing.
 🔄 Usage & Setup
-Clone the repository: git clone https://github.com/alexgoodestudio/gw-home.git
+Clone the repository.
 Navigate to the project directory: cd gw-home
 If you have Node.js installed, you can set up a local server using tools like live-server to view the website.
 Open index.html in your browser to view the site.
